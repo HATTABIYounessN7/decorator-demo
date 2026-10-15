@@ -1,7 +1,7 @@
 # Rapport de Travaux Pratiques : Design Pattern Decorator
 
 **Encadrant :** Mohamed YOUSSFI  
-**Étudiant(e) :** HATTABI Youness
+**Étudiant :** HATTABI Youness
 
 ---
 
